@@ -11,5 +11,5 @@ setup(
     url='https://isthicc.dev/',
     author='IsThicc Software',
     packages=find_packages(),
-    install_requires=["beaker", "flask"]
+    install_requires=["beaker", "flask", "werkzeug"]
 )
